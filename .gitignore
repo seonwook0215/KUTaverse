@@ -72,3 +72,7 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/Megascans/Surfaces/Rough_Asphalt_wjvnajn/T_Rough_Asphalt_wjvnajn_8K_D.uasset
+Content/Megascans/Surfaces/Rough_Asphalt_wjvnajn/T_Rough_Asphalt_wjvnajn_8K_N.uasset
+Content/Megascans/Surfaces/Rough_Asphalt_wjvnajn/T_RoughAsphalt_wjvnajn_8K_ORDp.uasset
+Content/Megascans/Surfaces/Scratched_Painted_Metal_Sheet_vbiiegp/T_Scratched_Painted_Metal_Sheet_vbiiegp_8K_D.uasset
